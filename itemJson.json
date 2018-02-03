@@ -1,0 +1,10 @@
+{
+    "_id" : 8,
+    "title" : "Pen (Green)",
+    "slogan" : "The only pen you'll ever need",
+    "description" : "Erase and rewrite repeatedly without damaging documents. The needlepoint tip creates clear precise lines and the thermo-sensitive gel ink formula disappears with erasing friction.",
+    "stars" : 0,
+    "category" : "Office",
+    "img_url" : "/img/products/green-pen.jpg",
+    "price" : 2
+}
